@@ -1,10 +1,10 @@
 # Kevin Dublin
-#### San Francisco, CA |  [email](mailto:kevdublin@gmail.com) |  415-320-0572
+#### San Francisco, CA |  [Email](mailto:kevdublin@gmail.com) |  415-320-0572
 #### [LinkedIn](www.linkedin.com/in/kevindublin) | [Website](http://parteverything.com) | [GitHub](https://github.com/kevindublin/)
 
 ## Summary of Qualifications
 
-*Highly motivated and driven full-stack web developer who combines creativity, communication, and coding skills to write and revise readable and efficient code and code documentation.*
+*Highly motivated and driven full-stack web developer who combines creativity, communication, and coding skills to write and revise readable and efficient code and technical documentation.*
 
 * Focused ability to quickly learn from and work with a team with a unique perspective and creative approach to design, develop and maintain high-impact web applications.
 * Passion filled volunteer at Computer Science Education Week, Oakland is Beyond, and Hidden Genius Project to encourage skills that can be applied to a future career in engineering.
@@ -21,7 +21,7 @@
 ### Full-Stack Engineer, Subliminal Club
 **May 2019 – March 2020**
 * Full Stack Development of server-side (Python) audio processing software solutions and sales automation (PHP) utility
-* Automated a 96 hour process into 15-20 minutes with django application to increase rate of production and raise sales by 22%
+* Automated 96 hour process into 15-20 minutes with Django application to increase rate of production and raise sales by 22%
 * Wrote detailed technical documentation and commented code for non-technical staff
 
 ### Admissions Advisor, PCAE Blog Webmaster, Academy of Art U
@@ -72,7 +72,7 @@ Copyediting, content editing, content writing, content layout, InDesign, Illustr
 Advising, event planning, organization, administration, email, Microsoft Office, reporting, analysis, front-facing, problem-solving, prospect and client guidance
 
 ### Sales & Customer Service
-Salesforce, Pipedrive, and other CRM, Excel reports, de-escalation, customized demonstrations and presentations, pipeline development, lead generation, new hire training and mentorship, customer success focused.
+Salesforce, Pipedrive, and other CRM, Excel reports, de-escalation, customized demonstrations and presentations, pipeline development, lead generation, new hire training and mentorship, customer success focused
 
 ## Current Projects
 
