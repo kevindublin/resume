@@ -1,9 +1,8 @@
-## ﻿Kevin Dublin
-#### San Francisco, CA |  [Email] (mailto:kevin@kevindublin.com) |  415-320-0572
-#### [LinkedIn] (www.linkedin.com/in/kevindublin) | [Website] (http://parteverything.com) | [GitHub] (https://github.com/kevindublin/)
+# Kevin Dublin
+#### San Francisco, CA |  [email](mailto:kevdublin@gmail.com) |  415-320-0572
+#### [LinkedIn](www.linkedin.com/in/kevindublin) | [Website](http://parteverything.com) | [GitHub](https://github.com/kevindublin/)
 
 ## Summary of Qualifications
----
 
 *Highly motivated and driven full-stack web developer who combines creativity, communication, and coding skills to write and revise readable and efficient code and code documentation.*
 
@@ -12,7 +11,6 @@
 * Demonstrated history of solving problems with code from TI-83 math utilities and games for high school students that have accumulated over 100,000 downloads to full stack web applications.
 
 ## Relevant Experience
----
 
 ### Academic Success Lead & TA, Kickstart Coding
 **Aug 2019 – Present**
@@ -37,7 +35,6 @@
 * Assisted in developing very first digital issue to reach an online audience and emailing marketing campaigns
 
 ## Education
----
 
 ### Kickstart Coding, Apprentice Engineer (Full-Stack)
 **Oakland, CA | May 2019**
@@ -64,7 +61,6 @@ Collaborate with a team to serve local business with content
 Research, write, and edit content for publication and presentation
 
 ## Skills
----
 
 ### Full Stack Web Development
 HTML5, CSS, Javascript, Python, Django, React.js, jQuery, SQL, MongoDB, Postgres, MySQL, AWS, Google Cloud Platform, Wordpress, Git, GitHub, Bitbucket, Responsive web development, agile development
@@ -79,15 +75,14 @@ Advising, event planning, organization, administration, email, Microsoft Office,
 Salesforce, Pipedrive, and other CRM, Excel reports, de-escalation, customized demonstrations and presentations, pipeline development, lead generation, new hire training and mentorship, customer success focused.
 
 ## Current Projects
----
 
-* [Prompt Me] (http://promptme.herokuapp.com/) *MVP of creative writing utility*
+* [Prompt Me](http://promptme.herokuapp.com/) *MVP of creative writing utility*
 	* Python, Django, HTML, CSS, Javascript, Postgresql
 	* OAuth, TinyMCE, Unsplash API, Wordnik API
 	* [ ] Refactor with Django REST Framework to serve as API for new React frontend
-* [Gun on the Mantle] (https://gun-on-the-mantle.herokuapp.com/) *demo site for playtesters*
+* [Gun on the Mantle](https://gun-on-the-mantle.herokuapp.com/) *demo site for playtesters*
 	* Django, Python, Vue, HTML, CSS, Postgresql
-* [Elder Writing Online] (http://elderwriting.net/) *writing community for non-profit*
+* [Elder Writing Online](http://elderwriting.net/) *writing community for non-profit*
 	* Wordpress, LearnPress, Zoom API
 * Sequence It *storytelling project management system*
 	* React, Node.js, Express, MongoDB
