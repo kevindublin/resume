@@ -88,4 +88,4 @@ Salesforce, Pipedrive, and other CRM, Excel reports, de-escalation, customized d
 	* React, Node.js, Express, MongoDB
 * Submit It *submission management system for writers and lit journals*
 	* Django, Python, Postgres
-	* Google Cloud Platform, Pyo, Amazon s3
+	* Google Cloud Platform, PyDub, Amazon s3
