@@ -38,9 +38,9 @@
 
 ### Kickstart Coding, Apprentice Engineer (Full-Stack)
 **Oakland, CA | May 2019**
-Bash, Python, Javascript, Node.js, HTML5, CSS
-Bootstrap, Django, React, Redux, SQL, Postgresql, Git version control
-Core computer science principles & agile development
+- Bash, Python, Javascript, Node.js, HTML5, CSS
+- Bootstrap, Django, React, Redux, SQL, Postgresql, Git version control
+- Core computer science principles & agile development
 
 ### San Diego State University, MFA Creative Writing
 **San Diego, CA | May 2015**
