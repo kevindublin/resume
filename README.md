@@ -44,21 +44,21 @@ Core computer science principles & agile development
 
 ### San Diego State University, MFA Creative Writing
 **San Diego, CA | May 2015**
-Expertise in creating, maintaining, and analyzing writing
-Editorial content management
-Professional writing experience at an international literary journal
+- Expertise in creating, maintaining, and analyzing writing
+- Editorial content management
+- Professional writing experience at an international literary journal
 
 ### East Carolina University, MA English
 **Greenville, NC | May 2012**
-Instruction of writing, critical thinking, and research
-Maintain curriculum guidelines across department classes
-Develop and maintain website for award winning journal
+- Instruction of expository & research writing and critical thinking
+- Maintain curriculum guidelines across department classes
+- Develop and maintain website for award winning journal
 
 ### UNC-Wilmington, BA Professional Writing & Technology
 **Wilmington, NC | July 2010**
-Share analysis and feedback on technology trends
-Collaborate with a team to serve local business with content
-Research, write, and edit content for publication and presentation
+- Share analysis and feedback on technology trends
+- Collaborate with a team to serve local business with content
+- Research, write, and edit content for publication and presentation
 
 ## Skills
 
