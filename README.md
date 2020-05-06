@@ -27,20 +27,63 @@
 ### Admissions Advisor, PCAE Blog Webmaster, Academy of Art U
 **Jan 2016 – Feb 2019**
 * Create new training programs for pre-admissions team on curriculum pathways to better support student interests
-* Managed Pre-College blog using HTML/CSS, Wordpress
+* Managed Pre-College blog using HTML/CSS/JS, Wordpress
 
 ### Editorial Assistant & Web Developer, North Carolina Literary Review
 **Jan 2011 – July 2012**
 * Completed website build-out from Photoshop to functional HTML 
 * Assisted in developing very first digital issue to reach an online audience and emailing marketing campaigns
 
+## Current Projects
+
+### Project Q
+*automated audio processing web app (Python, Django) for the development of custom guided meditations*
+	* Designed and built responsive UI using Bootstrap
+	* Store script module information via PostgresSQL database
+	* Integrated digital signal processing and manipulation libraries Pyo, Pydub, and FFmpeg
+	* Integrated Google Cloud Text-to-Speech API to synthesize natural-sounding speech from text
+	* Implemented AWS s3 as object storage for scalability, availability, security, and performance
+	* Write unit tests for models, forms, API response
+
+### [Prompt Me](http://promptme.herokuapp.com/)
+*first module from a suite of web apps (Django, React) to help writers and teachers of emerging writers*
+	* Implemented database in Postgresql to maintain user information
+	* Refactoring into architectured RESTful API using Django REST framework to serve writing prompts for new React frontend
+	* Integrated various libraries and APIs to connect such as TinyMCE rich text editor for user draft composition, Gravatar for global unique user avatars, Google Analytics to track web traffic, Unsplash API to serve prompt images, Mailgun API for sending account emails and contact form, oAuth access for popular social media platforms (Facebook, Google, Twitter and Github)
+
+### [Elder Writing Online](http://elderwriting.net/)
+*online writing community (WordPress) for non-profit program*
+	* Integrated Learnpress learning management system for course content, Zoom Conferencing API for live class sessions, bbPress & WriteShare for community writing features
+
+### Sequence It *storytelling project management system*
+	* React, Node.js, Express, MongoDB
+
+### Submit It *submission management system for writers and lit journals*
+	* Django, Python, Postgres
+	* Google Cloud Platform, PyDub, Amazon AWS s3
+
+## Skills
+
+### Full Stack Web Development
+HTML5, CSS, Javascript, Python, Django, React.js, jQuery, SQL, MongoDB, PostgresSQL, MySQL, AWS, Google Cloud Platform, Wordpress, Git, GitHub, Bitbucket, Responsive web development, agile development, Linux OS
+
+### Editorial
+Copyediting, content editing, content writing, content layout, InDesign, Illustrator, Photoshop, book layout, transcription, interviewing skills, publishing
+
+### Administration
+Advising, event planning, organization, administration, email, Microsoft Office, reporting, analysis, front-facing, problem-solving, prospect and client guidance
+
+### Sales & Customer Service
+Salesforce, Pipedrive, and other CRM, Excel reports, de-escalation, customized demonstrations and presentations, pipeline development, lead generation, new hire training and mentorship, customer success focused
+
 ## Education
 
 ### Kickstart Coding, Apprentice Engineer (Full-Stack)
 **Oakland, CA | May 2019**
 - Bash, Python, Javascript, Node.js, HTML5, CSS
-- Bootstrap, Django, React, Redux, SQL, Postgresql, Git version control
+- Bootstrap, Django, React, Redux, SQL, PostgreSQL, Docker
 - Core computer science principles & agile development
+- Linux OS, Git for version control, Network: TCP/IP, SSL, SSH
 
 ### San Diego State University, MFA Creative Writing
 **San Diego, CA | May 2015**
@@ -59,33 +102,3 @@
 - Share analysis and feedback on technology trends
 - Collaborate with a team to serve local business with content
 - Research, write, and edit content for publication and presentation
-
-## Skills
-
-### Full Stack Web Development
-HTML5, CSS, Javascript, Python, Django, React.js, jQuery, SQL, MongoDB, Postgres, MySQL, AWS, Google Cloud Platform, Wordpress, Git, GitHub, Bitbucket, Responsive web development, agile development
-
-### Editorial
-Copyediting, content editing, content writing, content layout, InDesign, Illustrator, Photoshop, book layout, transcription, interviewing skills, publishing
-
-### Administration
-Advising, event planning, organization, administration, email, Microsoft Office, reporting, analysis, front-facing, problem-solving, prospect and client guidance
-
-### Sales & Customer Service
-Salesforce, Pipedrive, and other CRM, Excel reports, de-escalation, customized demonstrations and presentations, pipeline development, lead generation, new hire training and mentorship, customer success focused
-
-## Current Projects
-
-* [Prompt Me](http://promptme.herokuapp.com/) *MVP of creative writing utility*
-	* Python, Django, HTML, CSS, Javascript, Postgresql
-	* OAuth, TinyMCE, Unsplash API, Wordnik API
-	* [ ] Refactor with Django REST Framework to serve as API for new React frontend
-* [Gun on the Mantle](https://gun-on-the-mantle.herokuapp.com/) *demo site for playtesters*
-	* Django, Python, Vue, HTML, CSS, Postgresql
-* [Elder Writing Online](http://elderwriting.net/) *writing community for non-profit*
-	* Wordpress, LearnPress, Zoom API
-* Sequence It *storytelling project management system*
-	* React, Node.js, Express, MongoDB
-* Submit It *submission management system for writers and lit journals*
-	* Django, Python, Postgres
-	* Google Cloud Platform, PyDub, Amazon s3
