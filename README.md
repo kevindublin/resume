@@ -38,29 +38,31 @@
 
 ### Project Q
 *automated audio processing web app (Python, Django) for the development of custom guided meditations*
-	* Designed and built responsive UI using Bootstrap
-	* Store script module information via PostgresSQL database
-	* Integrated digital signal processing and manipulation libraries Pyo, Pydub, and FFmpeg
-	* Integrated Google Cloud Text-to-Speech API to synthesize natural-sounding speech from text
-	* Implemented AWS s3 as object storage for scalability, availability, security, and performance
-	* Write unit tests for models, forms, API response
+* Designed and built responsive UI using Bootstrap
+* Store script module information via PostgresSQL database
+* Integrated digital signal processing and manipulation libraries Pyo, Pydub, and FFmpeg
+* Integrated Google Cloud Text-to-Speech API to synthesize natural-sounding speech from text
+* Implemented AWS s3 as object storage for scalability, availability, security, and performance
+* Write unit tests for models, forms, API response
 
 ### [Prompt Me](http://promptme.herokuapp.com/)
 *first module from a suite of web apps (Django, React) to help writers and teachers of emerging writers*
-	* Implemented database in Postgresql to maintain user information
-	* Refactoring into architectured RESTful API using Django REST framework to serve writing prompts for new React frontend
-	* Integrated various libraries and APIs to connect such as TinyMCE rich text editor for user draft composition, Gravatar for global unique user avatars, Google Analytics to track web traffic, Unsplash API to serve prompt images, Mailgun API for sending account emails and contact form, oAuth access for popular social media platforms (Facebook, Google, Twitter and Github)
+* Implemented database in Postgresql to maintain user information
+* Refactoring into architectured RESTful API using Django REST framework to serve writing prompts for new React frontend
+* Integrated various libraries and APIs to connect such as TinyMCE rich text editor for user draft composition, Gravatar for global unique user avatars, Google Analytics to track web traffic, Unsplash API to serve prompt images, Mailgun API for sending account emails and contact form, oAuth access for popular social media platforms (Facebook, Google, Twitter and Github)
 
 ### [Elder Writing Online](http://elderwriting.net/)
 *online writing community (WordPress) for non-profit program*
-	* Integrated Learnpress learning management system for course content, Zoom Conferencing API for live class sessions, bbPress & WriteShare for community writing features
+* Integrated Learnpress learning management system for course content, Zoom Conferencing API for live class sessions, bbPress & WriteShare for community writing features
 
-### Sequence It *storytelling project management system*
-	* React, Node.js, Express, MongoDB
+### Sequence It 
+*storytelling project management system*
+* React, Node.js, Express, MongoDB
 
-### Submit It *submission management system for writers and lit journals*
-	* Django, Python, Postgres
-	* Google Cloud Platform, PyDub, Amazon AWS s3
+### Submit It
+*submission management system for writers and lit journals*
+* Django, Python, Postgres
+* Google Cloud Platform, PyDub, Amazon AWS s3
 
 ## Skills
 
